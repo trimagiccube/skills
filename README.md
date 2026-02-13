@@ -87,6 +87,25 @@ The frontmatter requires only two fields:
 
 The markdown content below contains the instructions, examples, and guidelines that Claude will follow. For more details, see [How to create custom skills](https://support.claude.com/en/articles/12512198-creating-custom-skills).
 
+# Contributing to This Repository
+
+We welcome contributions! Whether you want to add a new skill, improve existing ones, or fix bugs, your help is appreciated.
+
+## Quick Start
+- 🚀 **New to Git?** Start with our [Quick Start Guide](./QUICKSTART.md)
+- 📖 **Full Guide:** Read the [Contributing Guide](./CONTRIBUTING.md)
+- 🇨🇳 **中文指南：** [贡献指南（中文）](./CONTRIBUTING.zh-CN.md)
+
+## How to Contribute
+
+1. **Fork and clone** this repository
+2. **Create a branch** for your changes
+3. **Add or modify skills** in the `skills/` folder
+4. **Test your changes** thoroughly
+5. **Submit a pull request** with a clear description
+
+For detailed instructions on creating skills, testing, and submitting contributions, see our [Contributing Guide](./CONTRIBUTING.md).
+
 # Partner Skills
 
 Skills are a great way to teach Claude how to get better at using specific pieces of software. As we see awesome example skills from partners, we may highlight some of them here:
